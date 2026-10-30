@@ -1,0 +1,11 @@
+{
+  "name": "@glider/bounty-trust",
+  "version": "1.0.0",
+  "description": "Score crypto bounty listings for legitimacy: detects scam rings, hardware-gated tasks, points-only bait, fabricated issues, and suspicious funders. Zero deps.",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["bounty","fraud","trust","scam-detection","agents"],
+  "license": "MIT"
+}
